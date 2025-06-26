@@ -1,5 +1,12 @@
 # Finetuning Qwen for News Summarization
 
+[![Kaggle](https://img.shields.io/badge/env-grey?style=flat&logo=kaggle&label=Kaggle&labelColor=white)](https://www.kaggle.com/)
+[![Unsloth](https://img.shields.io/badge/QLoRA-grey?style=flat&logo=nvidia&label=Unsloth&labelColor=black)](https://github.com/unslothai/unsloth)
+[![Python](https://img.shields.io/badge/3.10-green?style=flat-square&logo=Python&label=Python&labelColor=green&color=grey)](https://www.python.org/downloads/release/python-3100/)
+[![PyTorch](https://img.shields.io/badge/11.8-black?style=flat-square&logo=PyTorch&logoColor=red&label=Torch&labelColor=orange&color=grey)](https://pytorch.org/)
+[![HuggingFace](https://img.shields.io/badge/transformers-black?style=flat-square&logo=HuggingFace&logoColor=red&label=HuggingFace&labelColor=yellow&color=grey)](https://pypi.org/project/transformers/)
+
+
 ---
 
 ## 🧠 Objective
